@@ -186,15 +186,6 @@ bilgilerini alarak gerçek zamanlı risk tahmini yapmaktadır.
 
 # 🖼️ Proje Görselleri
 
-## 📌 Ana Dashboard
-
-![Ana Dashboard](img/arayuz1.png)
-
----
-
-## 📌 ML Model Dashboard
-
-![ML Dashboard](img/arayuz2.png)
 
 ---
 
