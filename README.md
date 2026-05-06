@@ -146,10 +146,10 @@ Projede aşağıdaki 7 algoritma kullanılmıştır:
 | GNB | 0.549 | 0.535 | 0.690 | 0.450 | 0.810 |
 | LinearSVM | 0.609 | 0.590 | 0.730 | 0.498 | 0.855 |
 | AdaBoost | 0.718 | 0.592 | 0.711 | 0.543 | 0.892 |
-| DT | 0.755 | 0.583 | 0.656 | 0.552 | 0.900 |
+| DT | 0.755 | 0.584 | 0.552 | 0.900 |
 | KNN | 0.809 | 0.574 | 0.638 | 0.565 | 0.913 |
 | RF | 0.853 | 0.570 | 0.583 | 0.572 | 0.920 |
-| HGB | 0.838 | 0.583 | 0.627 | 0.579 | 0.928 |
+| HGB | 0.838 | 0.583 | 0.633 | 0.580 | 0.928 |
 
 ---
 
@@ -159,6 +159,10 @@ Projede aşağıdaki 7 algoritma kullanılmıştır:
 |---|---|
 | RF | %85 Accuracy |
 | HGB | %83 Accuracy |
+
+En yüksek başarı oranı
+Random Forest modeli ile elde edilmiştir
+(%85.3 Accuracy).
 
 Fuzzy Three-Valued Logic kullanımı sayesinde
 özellikle RF ve HGB modellerinde
@@ -195,7 +199,6 @@ bilgilerini alarak gerçek zamanlı risk tahmini yapmaktadır.
 ## 📌 ML Model Dashboard
 
 ![ML Dashboard](img/arayuz2.png)
-
 
 ---
 
@@ -236,42 +239,13 @@ Kaydedilen tablolar:
 
 ---
 
-# 🚀 Projeyi Çalıştırma
-
-## Gerekli Kütüphaneler
+# 📂 Proje Yapısı
 
 ```bash
-pip install -r requirements.txt
-```
-
----
-
-## Streamlit Başlatma
-
-```bash
-streamlit run app.py
-```
-
----
-
-# 👨‍🎓 Öğrenci Bilgileri
-
-| Bilgi | Değer |
-|---|---|
-| Öğrenci Adı | Amir ELAHMED |
-| Öğrenci Numarası | 2112721307 |
-
----
-
-# ✅ Sonuç
-
-Bu projede Fuzzy Three-Valued Logic kullanılarak
-hibrit bir kalp hastalığı risk tahmin sistemi geliştirilmiştir.
-
-Elde edilen sonuçlar,
-bulanık mantık yaklaşımının özellikle bazı modellerde
-başarıyı artırdığını göstermektedir.
-
-Sistem hem uzman kurallarını
-hem de makine öğrenmesi modellerini
-bir arada kullanarak daha güçlü bir yapı sunmaktadır.
+├── app.py
+├── model.pkl
+├── scaler.pkl
+├── cardio_train.csv
+├── heart.db
+├── img/
+└── README.md
