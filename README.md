@@ -218,7 +218,7 @@ bilgilerini alarak gerçek zamanlı risk tahmini yapmaktadır.
 
 ## 📌 Confusion Matrix
 
-![Confusion Matrix](img/Confusion%20Matrix%20(RF).png)
+![Confusion Matrix (RF)](img/Confusion%20Matrix%20(RF).png)
 
 ---
 
