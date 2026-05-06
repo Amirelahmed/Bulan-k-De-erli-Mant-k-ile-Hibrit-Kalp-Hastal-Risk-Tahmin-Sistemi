@@ -188,37 +188,37 @@ bilgilerini alarak gerçek zamanlı risk tahmini yapmaktadır.
 
 ## 📌 Ana Dashboard
 
-![Ana Dashboard](img/arayuz1.png)
+<img src="img/arayuz1.png" width="700">
 
 ---
 
 ## 📌 ML Model Dashboard
 
-![ML Dashboard](img/arayuz2.png)
+<img src="img/arayuz2.png" width="700">
 
 ---
 
 ## 📌 Accuracy Comparison
 
-![Accuracy](img/Accuracy%20Comparison.png)
+<img src="img/Accuracy%20Comparison.png" width="650">
 
 ---
 
 ## 📌 Recall Comparison
 
-![Recall](img/Recall.png)
+<img src="img/Recall.png" width="650">
 
 ---
 
 ## 📌 Feature Importance
 
-![Feature Importance](img/Feature%20Importance.png)
+<img src="img/Feature%20Importance.png" width="650">
 
 ---
 
 ## 📌 Confusion Matrix
 
-![Confusion Matrix](img/confusion_matrix_rf.png)
+<img src="img/confusion_matrix_rf.png" width="650">
 
 ---
 
