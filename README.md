@@ -149,7 +149,7 @@ Projede aşağıdaki 7 algoritma kullanılmıştır:
 | DT | 0.755 | 0.583 | 0.656 | 0.552 | 0.900 |
 | KNN | 0.809 | 0.574 | 0.638 | 0.565 | 0.913 |
 | RF | 0.853 | 0.570 | 0.583 | 0.572 | 0.920 |
-| HGB | 0.838 | 0.583 | 0.627 | 0.579 | 0.928 |
+| HGB | 0.838 | 0.583 | 0.633 | 0.580 | 0.928 |
 
 ---
 
@@ -255,10 +255,15 @@ streamlit run app.py
 
 # 👨‍🎓 Öğrenci Bilgileri
 
+### Proje Grubu
 | Bilgi | Değer |
 |---|---|
 | Öğrenci Adı | Amir ELAHMED |
 | Öğrenci Numarası | 2112721307 |
+| Öğrenci Adı | ABDUL RAHMAN KHANOUM |
+| Öğrenci Numarası | 2212721317 |
+| Öğrenci Adı | İbrahim NASIR |
+| Öğrenci Numarası | 2212721308 |
 
 ---
 
